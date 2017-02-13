@@ -19,4 +19,5 @@ Counter.propTypes = {
   increment   : React.PropTypes.func.isRequired
 }
 
+
 export default Counter
